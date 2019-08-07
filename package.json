@@ -1,0 +1,34 @@
+{
+  "name": "@alobato/input",
+  "version": "1.0.1",
+  "description": "Input react component",
+  "main": "index.js",
+  "repository": "github:alobato/input",
+  "author": "alobato",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "react",
+    "input"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "react": "^16.8.0"
+  },
+  "devDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  },
+  "dependencies": {
+    "styled-components": "^4.3.2",
+    "styled-system": "^5.0.20"
+  },
+  "bugs": {
+    "url": "https://github.com/alobato/input/issues"
+  },
+  "homepage": "https://github.com/alobato/input#readme"
+}
