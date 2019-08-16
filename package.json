@@ -1,6 +1,6 @@
 {
   "name": "@alobato/input",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Input react component",
   "main": "index.js",
   "repository": "github:alobato/input",
