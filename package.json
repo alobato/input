@@ -1,6 +1,6 @@
 {
   "name": "@alobato/input",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Input react component",
   "main": "index.js",
   "repository": "github:alobato/input",
@@ -24,8 +24,7 @@
     "react-dom": "^16.8.0"
   },
   "dependencies": {
-    "styled-components": "^4.3.2",
-    "styled-system": "^5.0.20"
+    "styled-components": "^4.3.2"
   },
   "bugs": {
     "url": "https://github.com/alobato/input/issues"
